@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "id": "5b6823b4-127b-4008-96bd-bf524b9b1378",
+  "title": "아르세니의 폰",
+  "owner": "걸레년",
+  "ownerAvatar": null,
+  "ownerInfo": {
+    "nickname": "레이",
+    "organization": "블라디보스토크 극동연방대학교 부속 도서관",
+    "birthday": "12-24"
+  },
+  "theme": "dark",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "10:44",
+  "date": "2026-11-12",
+  "clockMode": "fixed",
+  "lockTextTone": "auto",
+  "lockClockOpacity": 1,
+  "lockAlerts": [
+    {
+      "id": "defe5b12-ae47-44d7-a324-f39678d1a86f",
+      "app": "calendar",
+      "ref": "48ac0e07-785d-45d2-a2b1-66d02f8d60b1"
+    }
+  ],
+  "lockWallpaperTransform": {
+    "x": 9.120562080030433,
+    "y": 75.04247218726502,
+    "scale": 3
+  },
+  "homeWallpaperTransform": {
+    "x": 34.41005145270108,
+    "y": 78.16164047160895,
+    "scale": 3
+  },
+  "lockCode": "1224",
+  "lockWallpaper": "assets/1.jpg",
+  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": false,
+    "music": true,
+    "calendar": true,
+    "diary": false,
+    "scrapbook": false,
+    "sns": false,
+    "instory": false
+  },
+  "appLayout": {
+    "home": [
+      "music",
+      "calls",
+      "calendar",
+      "browser",
+      "diary",
+      "instory",
+      "sns",
+      "scrapbook"
+    ],
+    "dock": [
+      "messages",
+      "contacts",
+      "photos",
+      "notes"
+    ]
+  },
+  "homePageCount": 1,
+  "homeSlots": {
+    "music": 10,
+    "calendar": 14,
+    "diary": 16,
+    "scrapbook": 21,
+    "sns": 20,
+    "calls": 11,
+    "instory": 17,
+    "browser": 15
+  },
+  "widgets": [
+    {
+      "id": "c13803aa-feae-48af-831f-b3621370327b",
+      "type": "photo",
+      "size": "4x2",
+      "slot": 0,
+      "src": "assets/10.png",
+      "style": "fill",
+      "caption": "",
+      "transform": {
+        "x": 100,
+        "y": 62,
+        "scale": 2
+      }
+    },
+    {
+      "id": "ed2c6e07-7849-4f22-a9b7-4d276917b809",
+      "type": "calendar",
+      "size": "2x2",
+      "slot": 8,
+      "style": "month"
+    }
+  ],
+  "contacts": [],
+  "threads": [
+    {
+      "id": "31b078c9-861f-4653-b378-fa22637eab5e",
+      "contactId": "",
+      "messages": [
+        {
+          "id": "7996dcb1-5839-4e77-b6d4-809ff7e942ac",
+          "kind": "date",
+          "text": "11월 12일 목요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 11,
+            "day": 12,
+            "weekday": 4
+          }
+        },
+        {
+          "id": "20cb7b47-76c2-478b-8197-597dba8fc168",
+          "from": "me",
+          "text": "왜전화안받아",
+          "time": "10:53"
+        },
+        {
+          "id": "bc3e82e9-0aaa-4e03-b212-e6f5f13eedd7",
+          "from": "them",
+          "text": "미안해. 밥 먹고 있었어.",
+          "time": "10:53"
+        },
+        {
+          "id": "96741496-97cc-4744-8d42-79ae0b624810",
+          "from": "them",
+          "text": "왜?",
+          "time": "10:53"
+        },
+        {
+          "id": "19928ab4-83e2-477b-87cf-6880e9867ddd",
+          "from": "me",
+          "text": "전화받아",
+          "time": "10:54"
+        },
+        {
+          "id": "0510cb34-7eb7-400e-a43a-3740b870ab93",
+          "from": "them",
+          "text": "응.",
+          "time": "10:54"
+        },
+        {
+          "id": "f818d628-5319-4481-892b-50fdb3c54536",
+          "kind": "date",
+          "text": "오늘",
+          "dateParts": {
+            "mode": "relative",
+            "relative": "today"
+          }
+        },
+        {
+          "id": "6b83272d-b8b6-4920-ad64-ba24dc93fbc1",
+          "from": "them",
+          "text": "뭐해?",
+          "time": "10:55"
+        },
+        {
+          "id": "34e8349d-2094-47e0-b5f2-ae0f94dd374e",
+          "from": "me",
+          "text": "대머리새끼가 맞춥법 틀렸다고 지랄지랄하는중",
+          "time": "10:55"
+        },
+        {
+          "id": "3052809f-47d4-4ee0-a55b-e9973cb53b6f",
+          "from": "me",
+          "text": "왜",
+          "time": "10:55"
+        },
+        {
+          "id": "c2bbc0b4-785d-4f1b-ac2f-ff6070c75f97",
+          "from": "them",
+          "text": "보고 싶어서.",
+          "time": "10:55"
+        },
+        {
+          "id": "d7ec9758-91af-4f14-9547-d73960892ffe",
+          "from": "me",
+          "text": "앞으로는 그냥 영상통화 걸어",
+          "time": "10:55"
+        },
+        {
+          "id": "3652f478-812c-453b-8108-9c7950696091",
+          "from": "me",
+          "text": "괜히문자보내지말고",
+          "time": "10:55"
+        }
+      ],
+      "draft": "",
+      "name": "걸레년",
+      "timelineVersion": 1
+    },
+    {
+      "id": "6f879721-0d14-4994-98f0-5331c8b60f32",
+      "contactId": "",
+      "messages": [
+        {
+          "id": "1bb17b3b-fde3-43a9-82b2-1d37c957b900",
+          "kind": "date",
+          "text": "11월 12일 목요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 11,
+            "day": 12,
+            "weekday": 4
+          }
+        },
+        {
+          "id": "4dee4587-bb8c-4f17-8d20-ebd84b9226ee",
+          "from": "them",
+          "text": "개새끼야",
+          "time": "10:44"
+        },
+        {
+          "id": "847fe5ee-f74c-4ca1-8c65-37e51e03053e",
+          "from": "them",
+          "text": "내가 맞춤법 공부하랬어 안하랬어",
+          "time": "10:44"
+        },
+        {
+          "id": "4e7c157c-cae6-4991-a4e6-28dcc4990453",
+          "from": "them",
+          "text": "하중초가 시발 초가집이냐",
+          "time": "10:44"
+        },
+        {
+          "id": "a7d43e50-a024-4e55-91be-1b022095988d",
+          "from": "them",
+          "text": "모르면 맨날 니가 보러가는 사서한테 알려달라고해",
+          "time": "10:44"
+        },
+        {
+          "id": "1d31cae7-4646-4a90-881b-783e8f1dca36",
+          "from": "me",
+          "text": "ㅇ",
+          "time": "10:44"
+        }
+      ],
+      "draft": "근데 걔가 사서인지 어떻게 알",
+      "name": "대머리",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "d76a22c9-a0d2-46f0-8765-e23a53a80a5e",
+      "src": "assets/3.png",
+      "caption": "",
+      "date": "2026-11-19",
+      "favorite": false
+    },
+    {
+      "id": "6c64b2fa-ba78-4e04-ae3e-462fc25051c8",
+      "src": "assets/4.png",
+      "caption": "",
+      "date": "2026-11-19",
+      "favorite": false
+    },
+    {
+      "id": "a22d61cf-d876-45e7-a80c-69572b2f1286",
+      "src": "assets/5.png",
+      "caption": "",
+      "date": "2026-11-19",
+      "favorite": false
+    },
+    {
+      "id": "72fb7faa-f86e-4a6a-8a43-bb44be536f3b",
+      "src": "assets/6.png",
+      "caption": "",
+      "date": "2026-11-19",
+      "favorite": false
+    },
+    {
+      "id": "d7ecc4eb-4605-4b3f-b7e7-42131ec4ca02",
+      "src": "assets/7.png",
+      "caption": "",
+      "date": "2026-11-19",
+      "favorite": false
+    },
+    {
+      "id": "bc322bf8-6177-42e4-bbba-00ccd4677793",
+      "src": "assets/8.png",
+      "caption": "",
+      "date": "2026-11-19",
+      "favorite": false
+    }
+  ],
+  "notes": [],
+  "music": {
+    "tracks": [
+      {
+        "id": "dafe3aa0-a47e-464c-84ba-3acac68c1e7a",
+        "title": "Merry Christmas Mr. Lawrence",
+        "artist": "Ryuichi Sakamoto",
+        "cover": "assets/9.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=1OZDaRhHHyM"
+      }
+    ],
+    "playlists": []
+  },
+  "calendar": {
+    "events": [
+      {
+        "id": "48ac0e07-785d-45d2-a2b1-66d02f8d60b1",
+        "title": "레이 생일",
+        "date": "2026-12-24",
+        "time": "",
+        "endDate": "",
+        "kind": "anniversary",
+        "repeatYearly": true,
+        "inclusive": false,
+        "description": "",
+        "color": "#8f5ec9"
+      },
+      {
+        "id": "0f3ecd93-967f-43ed-aa7f-cd4a89dfb54a",
+        "title": "월급",
+        "date": "2026-11-30",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "레이 통장에 넣어두기",
+        "color": "#3B82F6"
+      }
+    ]
+  },
+  "calls": [
+    {
+      "id": "9c485a1f-1537-4ce9-844b-5ac218504e44",
+      "type": "outgoing",
+      "name": "걸레년",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "07fde440-833b-42a9-be6d-08d4c5017597",
+      "type": "incoming",
+      "name": "걸레년",
+      "date": "2026-11-03",
+      "time": "14:52"
+    },
+    {
+      "id": "bcdfb42f-e5b5-4a41-b0d9-cefeb6e7e6c3",
+      "type": "incoming",
+      "name": "걸레년",
+      "date": "2026-11-02",
+      "time": "12:58"
+    },
+    {
+      "id": "53787cf7-0d28-42db-81b8-fdfc979c78be",
+      "type": "outgoing",
+      "name": "걸레년",
+      "date": "2026-11-02",
+      "time": "10:51"
+    }
+  ],
+  "browser": {
+    "searches": [
+      {
+        "id": "34073758-d0ac-40f7-9286-7b9cced153cd",
+        "query": "발 차가울때"
+      },
+      {
+        "id": "cd654fbd-6cbb-4602-a343-15ae415057d7",
+        "query": "발 차가울때 뭐해야"
+      },
+      {
+        "id": "5aeffa29-1662-4203-a7fe-2182e7b10f44",
+        "query": "수족냉증"
+      },
+      {
+        "id": "34de1748-b11c-4db6-99da-881551c0de0a",
+        "query": "애인 명의로 통장 개설"
+      },
+      {
+        "id": "48b8f5b5-be46-4cb0-b828-55bc41e3b1d1",
+        "query": "통장 개설"
+      }
+    ]
+  },
+  "updatedAt": "2026-11-19T02:05:48.828Z"
+}
